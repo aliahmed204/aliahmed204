@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ahmed</h1>
 <h3 align="center">A passionate Backend developer</h3>
-
+<img align="right" alt="CODING" widt"400" src="https://i.imgur.com/OTKgDSt.gif" />
+ 
 - 💬 Ask me about **Anything, I am happy to help.**
 
 - 📫 How to reach me **ali.ah.mo.ali204@gmail.com**
